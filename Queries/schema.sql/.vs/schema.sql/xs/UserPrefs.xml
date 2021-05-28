@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DAD913C1-483B-472D-BAAF-3FED3FCE4BCD}|Default">
+  <MonoDevelop.Ide.ItemProperties.schema.sql FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="schema.sql/schema.sql">
+    <Files>
+      <File FileName="schema.sql/schema.sql" Line="57" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="schema.sql" expanded="True">
+            <Node name="schema.sql" expanded="True">
+              <Node name="schema.sql" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
