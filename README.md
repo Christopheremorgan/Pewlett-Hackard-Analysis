@@ -22,6 +22,8 @@ When we filter on employees born in 1965 to identify [eligibility for mentorship
 * there are ~1,550 current employees eligible for mentorship 
 * many of those eligible are senior engineers and senior staff
 
+The following [link](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) includes all the SQL queries for both the requested analysis along with a few others for additional analysis.
+
 
 ## Summary: 
 After removing the employees that no longer work for the company we find that there are more than 72k current employees born between 1952 and 1955.  Assuming retirement package eligibility requires a hire date between 1985 and 1988 we have more than 40K current employees eligible for a retirement package.
@@ -37,5 +39,3 @@ When we query for [total employees](https://github.com/Christopheremorgan/Pewlet
 
 Employee Summary Counts By Dept: ![image_name](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Data/emp_counts_by_dept.png)
 
-
-The following [link](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) includes all the SQL queries for both the requested analysis along with a few others for additional analysis.
