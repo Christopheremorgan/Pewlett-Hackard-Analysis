@@ -14,6 +14,8 @@ From the [retirement titles](https://github.com/Christopheremorgan/Pewlett-Hacka
 
 After ensuring that each employee did not have multiple entries with the [unique titles](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) analysis.  We still find that there are more than 90k employees born between 1952 and 1955 and of the prime retirement age.  When we group and count by title with the [retiring titles](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) analysis we find that more than half of the list is made up of Senior Engineers and Senior Staff.
 
+![image_name](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Data/emp_counts_by_dept.png)
+
 When we filter on employees born in 1965 to identify [eligibility for mentorship](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv), we find there is are ~1,550 current employees, many of which are already senior engineers and senior staff.
 
 The following [link](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) includes all the SQL queries for the requested challenge analysis.
