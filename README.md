@@ -26,3 +26,6 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 When we query for [total employees](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/0a59f23ca5f09eacc24c3b7767ad6475086ec9a1/Data/employee_count_by_dept.csv) and [retirement eligibility](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/0a59f23ca5f09eacc24c3b7767ad6475086ec9a1/Data/retirement_count_by_dept.csv) per department we see that each department has ~11% of employees eligible for retirement.
+
+
+![image_name](https://github.com/Christopheremorgan/Pewlett-Hackard-Analysis/blob/main/Data/emp_counts_by_dept.png)
