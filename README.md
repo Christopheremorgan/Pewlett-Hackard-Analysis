@@ -3,7 +3,7 @@
 
 ## Overview of the analysis: 
 
-In order to help Pewlett-Hackard leaders future-proof the company for the upcoming 'silver tsunami' of upcoming retirements, created an employee database and query the personnel data leveraging SQL.  The key objectives of the analysis are to determine how many people will be retiring, who is eligible for a retirement package, the number of vacancies that need to be filled, and opportunities for a mentorship program.
+To help Pewlett-Hackard leaders future-proof the company for the upcoming 'silver tsunami' of upcoming retirements an employee database was created to query the personnel data leveraging SQL.  The key objectives of the analysis are to determine how many people will be retiring, who is eligible for a retirement package, the number of vacancies that need to be filled, and opportunities for a mentorship program.
 
 
 ## Results: 
